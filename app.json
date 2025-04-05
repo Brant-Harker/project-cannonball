@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "09009868-ffaf-4f97-96c9-2c58dd3bef96"
+      }
+    },
+    "owner": "brant_harker"
   }
 }
